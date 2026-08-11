@@ -65,7 +65,7 @@ Daily equity quote data exported from the **NSE (National Stock Exchange of Indi
 
 **Suggested file:** `screenshots/page2-forecast.png`
 
-![Reliance Stock Forecast — Page 2](screenshots/page2-forecast.png)
+![Reliance Stock Forecast — Page 2](Screenshots/Screenshot 2026-08-11 193534.png)
 
 ---
 
