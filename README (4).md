@@ -71,7 +71,7 @@ The screenshot below shows the main Power BI dashboard containing the price, vol
 
 The screenshot below shows the forecasting dashboard with historical closing prices and the projected price trend generated using Python.
 
-![Reliance Stock Forecast — Page 2](Screenshot%202026-08-11%193544.png)
+![Reliance Stock Forecast — Page 2](Screenshot%202026-08-11%20193544.png)
 
 ---
 
