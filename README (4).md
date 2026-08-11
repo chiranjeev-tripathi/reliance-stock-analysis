@@ -56,7 +56,7 @@ Daily equity quote data exported from the **NSE (National Stock Exchange of Indi
 
 The screenshot below shows the main Power BI dashboard containing the price, volume, KPI cards, slicers, and supporting visualizations.
 
-![Reliance Stock Analysis — Page 1](Screenshots/Screenshot%202026-08-11%20193534.png)
+![Reliance Stock Analysis — Page 1](Screenshot%202026-08-11%20193534.png)
 
 ---
 
