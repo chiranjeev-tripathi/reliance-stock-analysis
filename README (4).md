@@ -48,9 +48,9 @@ Daily equity quote data exported from the **NSE (National Stock Exchange of Indi
 
 > **Add your Page 1 Power BI screenshot here**
 
-**Suggested file:** `screenshots/page1-price-volume.png`
+**Suggested file:** `reliance-stock-analysis
+/Screenshot 2026-08-11 193534.png`
 
-![Reliance Stock Analysis — Page 1](Screenshot 2026-08-11 193534.png)
 
 ---
 
