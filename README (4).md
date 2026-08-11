@@ -50,7 +50,7 @@ Daily equity quote data exported from the **NSE (National Stock Exchange of Indi
 
 **Suggested file:** `screenshots/page1-price-volume.png`
 
-![Reliance Stock Analysis — Page 1](screenshots/page1-price-volume.png)
+![Reliance Stock Analysis — Page 1](Screenshot 2026-08-11 193534.png)
 
 ---
 
